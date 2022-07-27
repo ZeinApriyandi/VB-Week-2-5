@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week2\apriyandi6-week2\AutoCopyText\AutoCopyText\bin\Debug\AutoCopyText.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week2\apriyandi6-week2\AutoCopyText\AutoCopyText\bin\Debug\AutoCopyText.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week2\apriyandi6-week2\AutoCopyText\AutoCopyText\bin\Debug\AutoCopyText.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week2\apriyandi6-week2\AutoCopyText\AutoCopyText\bin\Debug\AutoCopyText.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week2\apriyandi6-week2\AutoCopyText\AutoCopyText\obj\Debug\AutoCopyText.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week2\apriyandi6-week2\AutoCopyText\AutoCopyText\obj\Debug\AutoCopyText.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week2\apriyandi6-week2\AutoCopyText\AutoCopyText\obj\Debug\AutoCopyText.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week2\apriyandi6-week2\AutoCopyText\AutoCopyText\obj\Debug\AutoCopyText.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week2\apriyandi6-week2\AutoCopyText\AutoCopyText\obj\Debug\AutoCopyText.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week2\apriyandi6-week2\AutoCopyText\AutoCopyText\obj\Debug\AutoCopyText.pdb
